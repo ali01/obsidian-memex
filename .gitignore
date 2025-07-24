@@ -1,0 +1,31 @@
+# Obsidian plugin data
+data.json
+
+# Node modules
+node_modules/
+package-lock.json
+
+# Build outputs
+main.js
+lib/
+*.map
+
+# TypeScript
+*.tsbuildinfo
+
+# IDE
+.vscode/
+.idea/
+.zed/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Test coverage
+coverage/

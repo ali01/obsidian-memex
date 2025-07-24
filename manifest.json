@@ -1,0 +1,10 @@
+{
+  "id": "memex",
+  "name": "Memex",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Obsidian tools for Zettelkasten-style notes.",
+  "author": "Ali Yahya",
+  "authorUrl": "https://github.com/ali01",
+  "isDesktopOnly": false
+}
